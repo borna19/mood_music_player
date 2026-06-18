@@ -1,0 +1,3 @@
+CLIENT_ID = "9a5062fb22a5484eaaedd969eaa9dc86"
+CLIENT_SECRET = "36e5679fe7444adba10cbf4a73c13a71"
+REDIRECT_URI = "http://127.0.0.1:5000/callback"
