@@ -72,7 +72,7 @@ Mood-Music-Player/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/mood-music-player.git
+git clone https://github.com/borna19/mood_music_player.git
 
 cd mood-music-player
 
